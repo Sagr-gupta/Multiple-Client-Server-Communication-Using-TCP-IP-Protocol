@@ -33,7 +33,46 @@ TECH STACK USED -
 
 IMPORTANT LOGIC USED -
 
-    1. This is the flow of code that we used for establishment of connection between clients and server.
+   1. This is the flow of code that we used for establishment of connection between clients and server.
+     
+  ![Screenshot from 2021-03-14 13-07-06](https://user-images.githubusercontent.com/60633026/111067094-809d3e80-84e8-11eb-8f5d-5863f0fe81b5.png)
+  
+   2. Sockets are uniquely identified by a quartet of information.
+
+RESULTS OBTAINED
+- Successful connection established between multiple clients and server.
+    
+ADDITION TO THE ACM PROJECT
+- Here i changed the queueLimit in listen() function and also use fork() for establishment of connection between multiple clients and server. Now different clients can establish a connection with a server simultaneously.
+
+FUTURE GOALS OF THE PROJECT
+- The future goal of this project is to transfer the secure data from one computer to another with the help of socket programming using client server architecture.
+    
+SCREENSHOT SHOWING THE WORKING OF THE PROJECT
+![Screenshot from 2021-03-14 05-39-28](https://user-images.githubusercontent.com/60633026/111067315-ba227980-84e9-11eb-9f1f-7c585c0f0fd5.png)
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
 
     
