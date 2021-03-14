@@ -43,7 +43,7 @@ int main(int argc, char const *argv[])
     cout<<"Waiting for client to connect....\n";
 
     
-    if(listen(serverSocketID, 10)==0)
+    if(listen(serverSocketID, 4)==0)
     {
         cout<<"Listening...\n";
     }
