@@ -23,12 +23,13 @@ HOW TO RUN -
 TECH STACK USED - 
    C++ , Socket Programming and Computer Networks.
    Using :
-- <sys/types.h>----//Defines a collection of typedef symbols and structures
-- <sys/socket.h>---//Declarations of socket constants, types, and functions
-- <netinet/in.h>---//Definitions for the internet protocol family
-- <arpa/inet.h>----//Definitions for internet operations
-- <netdb.h>--------//Definitions for network database operations
-- <unistd.h>-------//Definitions for standard symbolic constants and types
+   
+    - <sys/types.h>----//Defines a collection of typedef symbols and structures
+    - <sys/socket.h>---//Declarations of socket constants, types, and functions
+    - <netinet/in.h>---//Definitions for the internet protocol family
+    - <arpa/inet.h>----//Definitions for internet operations
+    - <netdb.h>--------//Definitions for network database operations
+    - <unistd.h>-------//Definitions for standard symbolic constants and types
 
 IMPORTANT LOGIC USED -
 
